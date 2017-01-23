@@ -1,0 +1,10 @@
+c:\users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\bin\Debug\КопированиеЭлементаСписка.exe.config
+C:\Users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\bin\Debug\КопированиеЭлементаСписка.exe
+C:\Users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\bin\Debug\КопированиеЭлементаСписка.pdb
+C:\Users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\obj\x86\Debug\КопированиеЭлементаСписка.exe
+C:\Users\sharepoint\documents\visual studio 2010\Projects\CopyItemOfList\CopyItemOfList\obj\x86\Debug\КопированиеЭлементаСписка.pdb
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\Debug\КопированиеЭлементаСписка.exe.config
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\obj\x86\Debug\КопированиеЭлементаСписка.exe
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\obj\x86\Debug\КопированиеЭлементаСписка.pdb

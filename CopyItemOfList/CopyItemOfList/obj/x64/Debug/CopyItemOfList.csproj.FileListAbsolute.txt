@@ -1,0 +1,15 @@
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.SharePoint.dll
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.BusinessData.dll
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.SharePoint.xml
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.BusinessData.xml
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\obj\x64\Debug\CopyItemOfList.csprojResolveAssemblyReference.cache
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\CopyItemOfList.exe.config
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\CopyItemOfList.exe
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\bin\x64\Debug\CopyItemOfList.pdb
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\obj\x64\Debug\CopyItemOfList.exe
+C:\Users\daandrienko\Desktop\CopyItemOfList\CopyItemOfList\obj\x64\Debug\CopyItemOfList.pdb
