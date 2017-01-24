@@ -12,10 +12,12 @@ namespace AddItemList
             String @nameList = Console.ReadLine();
             Console.WriteLine();
             Console.WriteLine("You entered: {0}", @nameList);
+                // enter ID if element, which you need to restore
             Console.Write("Enter ID of the element in the List");
             String @idnameList = Console.ReadLine();
             Console.WriteLine();
             Console.Write("Enter GUID of the element in the List");
+                // enter GUID in the specific view
             String @guidnameList = Console.ReadLine();
             Console.WriteLine();
 
