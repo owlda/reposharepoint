@@ -8,7 +8,7 @@
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="VisualWebPart1UserControl.ascx.cs" Inherits="VisualWebPart99.VisualWebPart1.VisualWebPart1UserControl" %>
 <asp:UpdatePanel runat="server">
     <ContentTemplate>
-        <asp:TextBox ID="FilterBox" runat="server"></asp:TextBox>&nbsp&nbsp&nbsp
+        <asp:TextBox ID="FilterBox" runat="server"></asp:TextBox>
         <asp:Button class="ExecuteButton" runat="server" Text="Find" OnClick="ExecuteButton_OnClick"/>
         <asp:UpdateProgress ID="UpdateProgressFind" runat="server">
            <ProgressTemplate>
