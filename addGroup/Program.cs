@@ -7,7 +7,7 @@ namespace addGroupUsers
     {
         static void Main(string[] args)
         {
-            // Name of group users
+            // HTTP address of site
             Console.WriteLine("-----------------------------------------------");
             Console.Write("Enter the site address: ");
             String SiteAddress = Console.ReadLine();
